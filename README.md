@@ -1,7 +1,9 @@
-# cura
+<h1>i will upload exe file sooon</h1>
+
+
 a simple assistant used to do simple tasks
 
-This is made by Dps Bulandshahr(Ansh Bhardwaj , Adit Kumar and Yash Vardan)
+This is made by Ansh Bhardwaj
 
 to operate this...
 you first have to say "wake" or "bye"(like you can also say a sentence like, "i am  going now , bye" but the keyword "bye" should be there in that sentence)
